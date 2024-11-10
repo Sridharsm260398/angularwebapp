@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://webapp-rest-api-postgres-v2-sridhar.onrender.com/'
+  apiUrl: 'https://sridhars-webapp-restapi-postgres-v2.onrender.com/api-docs/'
 };
