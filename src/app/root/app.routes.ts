@@ -10,7 +10,7 @@ import { ProfileComponent } from '../module/profile/profile.component';
 import { AddressComponent } from '../module/address/address.component'
 import { OrdersComponent } from '../module/orders/orders.component';
 import { CheckoutComponent } from '../module/checkout/checkout.component';
-import { EditprofileComponent } from '../module/Editprofile/editprofile.component'
+import { EditprofileComponent } from '../module/editprofile/editprofile.component'
 import { LogoutComponent } from '../module/logout/logout.component';
 import { AuthGuard } from '../auth/auth.guard';
 import { NotificationComponent } from '../module/notification/notification.component';
